@@ -1,5 +1,5 @@
 # hanreader
-Firmware for reading Swedish HAN-port using the SmartyReader from http://weigu.lu/.
+Firmware for reading Swedish HAN-port using the SmartyReader from http://weigu.lu/ and integrating it to a MQTT broker and Home Assistant.
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v2.1-blue.svg)](https://www.gnu.org/licenses/lgpl-2.1)
 
